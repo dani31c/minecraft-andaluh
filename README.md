@@ -1,4 +1,4 @@
-# minecraft-andaluh
+# minecraft-andaluh (DEPRECAO)
 ¡Pa que dîffruten Minecraft Java!
 
 • Emô utiliçao ettô:\
